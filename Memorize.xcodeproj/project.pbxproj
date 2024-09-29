@@ -48,6 +48,7 @@
 		DF994B092C99716D00DA5AE2 /* MemorizeUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemorizeUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		DF994B182C9F146300DA5AE2 /* MemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoryGame.swift; sourceTree = "<group>"; };
 		DF994B1A2CA001DF00DA5AE2 /* EmojiMemoryGame.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EmojiMemoryGame.swift; sourceTree = "<group>"; };
+		DFDFFB042CA98BF200A0B191 /* Location.gpx */ = {isa = PBXFileReference; lastKnownFileType = text.xml; path = Location.gpx; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		DF994AE02C99716B00DA5AE2 = {
 			isa = PBXGroup;
 			children = (
+				DFDFFB042CA98BF200A0B191 /* Location.gpx */,
 				DF994AEB2C99716B00DA5AE2 /* Memorize */,
 				DF994AFC2C99716D00DA5AE2 /* MemorizeTests */,
 				DF994B062C99716D00DA5AE2 /* MemorizeUITests */,
